@@ -1,0 +1,41 @@
+# Git
+.git/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+dist_v2/
+dist_v3/
+dist_dpi_fix/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Executables
+*.exe
+*.spec
+
+# Test environments
+test_downloads/
+test_downloads_v2/
+
+# Logs
+organizer_log.txt
+
+# OS
+.DS_Store
+Thumbs.db
