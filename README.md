@@ -44,5 +44,4 @@ Si deseas volver a generar el ejecutable desde el código fuente, utiliza:
 pyinstaller --onefile --noconsole --icon=app_icon.ico --hidden-import patoolib --name="OrganizadorDescargas" organizer.py
 ```
 
----
-*Hecho por Antigravity*
+
